@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#777777"
+    android:orientation="vertical"
+    tools:context="com.example.abhishekarora.quizzer.MainActivity">
+
+    <TextView
+        android:id="@+id/lone"
+        style="@style/CategoryStyle"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="16dp"
+        android:background="#222222"
+        android:textAlignment="center"
+        android:text="@string/abc"
+        />
+
+    <TextView
+        android:id="@+id/ltwo"
+        style="@style/CategoryStyle"
+        android:layout_marginBottom="16dp"
+        android:background="#222222"
+        android:textAlignment="center"
+        android:text="@string/def" />
+
+    <TextView
+        android:id="@+id/lthree"
+        style="@style/CategoryStyle"
+        android:layout_marginBottom="16dp"
+        android:background="#222222"
+        android:textAlignment="center"
+        android:text="@string/ghi" />
+
+    <TextView
+        android:id="@+id/lfour"
+        style="@style/CategoryStyle"
+        android:background="#222222"
+        android:textAlignment="center"
+        android:text="@string/jkl" />
+
+</LinearLayout>

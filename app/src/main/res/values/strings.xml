@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="category_ds">Data Structures</string>
+    <string name="category_algo">Algorithms</string>
+    <string name="category_math">Mathematics</string>
+    <string name="category_apti">Aptitude</string>
+    <string name="abc">Level 1</string>
+    <string name="level">Levels</string>
+    <string name="def">Level 2</string>
+    <string name="str">Next</string>
+    <string name="ghi">Level 3</string>
+    <string name="jkl">Level 4</string>
+
+</resources>
